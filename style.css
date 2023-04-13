@@ -17,8 +17,8 @@
     display: flex;
   }  
   .slides{  
-    width: 550px;  
-    height: 300px;
+    width: 560px;  
+    height: auto;
   }  
   .button{  
     position: relative;  
